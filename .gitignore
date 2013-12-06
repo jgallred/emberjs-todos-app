@@ -1,0 +1,8 @@
+/node_modules
+.DS_Store
+/nbproject
+/bower_components
+_ide_*
+.grunt
+_SpecRunner.html
+*.sublime-*

@@ -1,0 +1,14 @@
+{
+  "name": "todoMVC",
+  "version": "0.0.0",
+  "description": "",
+  "author": {
+    "name": "jgallred <jgallred86@gmail.com>"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-exec": "~0.4.2"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "todoMVC",
+  "version": "0.0.0",
+  "authors": [
+    "jgallred <jgallred86@gmail.com>"
+  ],
+  "license": "None",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "handlebars": "~1.0.0",
+    "datejs": "*",
+    "requirejs-text": "~2.0.10",
+    "rjs": "~2.1.8",
+    "jquery": "~2.0.3",
+    "ember": "~1.2.0",
+    "ember-data": "1.0.0-beta.3",
+    "ember-localstorage-adapter": "*"
+  },
+  "resolutions": {
+    "ember": "~1.2.0"
+  }
+}
